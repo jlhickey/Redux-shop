@@ -35,7 +35,7 @@ MIT
 https://watch.screencastify.com/v/x5fCVnhNCO1I8rI6Gk2v
 
 ## Photos<br>
- https://github.com/jlhickey/MERN-book-search/blob/main/book1.jpg<br>
+ https://github.com/jlhickey/Redux-shopping/blob/main/shop1.jpg<br>
  https://github.com/jlhickey/MERN-book-search/blob/main/book2.jpg
  
 ## REPOSITORIES

@@ -1,1 +1,46 @@
 # Redux-shopping
+# MERN-book-search
+![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
+![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
+
+
+## Table of Contents
+1. [User Story](#UserStory)
+2. [Acceptance Criteria](#AcceptanceCriteria)
+3. [Installation](#Installation)
+5. [Liscence](#Liscence)
+6. [Mock Up](#MockUp)
+7. [Photos](#Photos)
+8. [My Repositories](#MyRepositories)
+
+
+## User Story
+AS AN avid reader
+I WANT to search for new books to read
+SO THAT I can keep a list of books to purchase
+
+
+## Installation
+The app used to run are
+*  Apollo
+*  Express
+*  Mongo
+*  React
+*  Heroku
+
+## Liscence
+MIT
+
+## Mock Up   
+https://watch.screencastify.com/v/x5fCVnhNCO1I8rI6Gk2v
+
+## Photos<br>
+ https://github.com/jlhickey/MERN-book-search/blob/main/book1.jpg<br>
+ https://github.com/jlhickey/MERN-book-search/blob/main/book2.jpg
+ 
+## REPOSITORIES
+
+- Project Repo https://github.com/jlhickey/Redux-shopping
+- GitHub https://github.com/jlhickey
+- Heroku   
+    

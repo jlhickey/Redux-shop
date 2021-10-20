@@ -1,4 +1,4 @@
-# Redux-shopping
+ 
 # MERN-book-search
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
 ![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)

@@ -1,5 +1,4 @@
- 
-# MERN-book-search
+# Redux Shop
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
 ![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
 
@@ -40,7 +39,7 @@ https://watch.screencastify.com/v/oW21AUCtIKvg3Kg10LhC
  
 ## REPOSITORIES
 
-- Project Repo https://github.com/jlhickey/Redux-shopping
+- Project Repo https://github.com/jlhickey/Redux-shop
 - GitHub https://github.com/jlhickey
 - Heroku   
     

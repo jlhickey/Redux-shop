@@ -39,7 +39,7 @@ https://watch.screencastify.com/v/oW21AUCtIKvg3Kg10LhC
  
 ## REPOSITORIES
 
-- Project Repo https://github.com/jlhickey/Redux-shop
+- Project Repo  https://jlhickey.github.io/Redux-shop/
 - GitHub https://github.com/jlhickey
 - Heroku   
     

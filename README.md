@@ -34,7 +34,7 @@ MIT
 https://watch.screencastify.com/v/oW21AUCtIKvg3Kg10LhC
 
 ## Photos<br>
- https://github.com/jlhickey/Redux-shopping/blob/main/shop1.jpg<br>
+ 
  https://github.com/jlhickey/Redux-shopping/blob/main/shop2.jpg
  
 ## REPOSITORIES

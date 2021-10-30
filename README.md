@@ -6,7 +6,7 @@
 ## Table of Contents
 1. [User Story](#UserStory)
 2. [Acceptance Criteria](#AcceptanceCriteria)
-3. [Installation](#Installation)
+3. [Tools](#Tools)
 5. [Liscence](#Liscence)
 6. [Mock Up](#MockUp)
 7. [Photos](#Photos)
@@ -19,13 +19,17 @@ I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
 
-## Installation
-The app used to run are
-*  Apollo
-*  Express
-*  Mongo
-*  React
-*  Heroku
+## Tools
+![Language](https://img.shields.io/badge/MongoDB-green.svg "Language Badge")
+![Language](https://img.shields.io/badge/Express-blue.svg "Language Badge")
+![Language](https://img.shields.io/badge/REACT-yellow.svg "Language Badge")
+![Language](https://img.shields.io/badge/Node-orange.svg "Language Badge")
+![Language](https://img.shields.io/badge/CSS-purple.svg "Language Badge")
+![Language](https://img.shields.io/badge/HTML-red.svg "Language Badge")
+![Language](https://img.shields.io/badge/JavaScript-green.svg "Language Badge")
+![Language](https://img.shields.io/badge/Apollo-blue.svg "Language Badge")
+![Language](https://img.shields.io/badge/Mongoose-red.svg "Language Badge")
+![Language](https://img.shields.io/badge/Bootstrap-green.svg "Language Badge")
 
 ## Liscence
 MIT
